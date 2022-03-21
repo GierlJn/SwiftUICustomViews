@@ -11,6 +11,7 @@
 		B90CD21C27E8D54A00772259 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90CD21B27E8D54A00772259 /* ContentView.swift */; };
 		B90CD21E27E8D54C00772259 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B90CD21D27E8D54C00772259 /* Assets.xcassets */; };
 		B90CD22127E8D54C00772259 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B90CD22027E8D54C00772259 /* Preview Assets.xcassets */; };
+		B90CD22827E8D55B00772259 /* AnimatedListButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90CD22727E8D55B00772259 /* AnimatedListButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B90CD21B27E8D54A00772259 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B90CD21D27E8D54C00772259 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B90CD22027E8D54C00772259 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B90CD22727E8D55B00772259 /* AnimatedListButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedListButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				B90CD21B27E8D54A00772259 /* ContentView.swift */,
 				B90CD21D27E8D54C00772259 /* Assets.xcassets */,
 				B90CD21F27E8D54C00772259 /* Preview Content */,
+				B90CD22727E8D55B00772259 /* AnimatedListButton.swift */,
 			);
 			path = SwiftUICustomViews;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				B90CD21C27E8D54A00772259 /* ContentView.swift in Sources */,
 				B90CD21A27E8D54A00772259 /* SwiftUICustomViewsApp.swift in Sources */,
+				B90CD22827E8D55B00772259 /* AnimatedListButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
